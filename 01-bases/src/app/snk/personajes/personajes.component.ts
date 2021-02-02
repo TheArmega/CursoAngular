@@ -1,5 +1,4 @@
 import { Component, Input } from '@angular/core';
-import { Personaje } from '../interfaces/snk.interface';
 import { SnkService } from '../services/snk.service';
 
 @Component({
